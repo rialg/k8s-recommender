@@ -80,7 +80,7 @@ This project is licensed under the terms of the included LICENSE.md file.
 
 ## Academic Context
 
-This project is being developed as part of a Master's thesis at UNIR (Universidad Internacional de La Rioja) in Mathematical Engineering and Computer Science. The goal is to explore and implement novel approaches to resource optimization in containerized environments.
+This project is being developed as part of a Master's thesis in Mathematical Engineering and Computer Science at UNIR (Universidad Internacional de La Rioja), which dissertation material can be [found in this repo](./slides/tfm-unir.pdf). The goal is to explore and implement novel approaches to resource optimization in containerized environments.
 
 ## Status
 
