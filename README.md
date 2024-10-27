@@ -1,6 +1,6 @@
 # k8s-recommender
 
-> **⚠️ Disclaimer:** This project is currently experimental and part of an ongoing Master's thesis at UNIR (Universidad Internacional de La Rioja) in Distributed Systems and Software Engineering. It serves as a brain dump of ideas and implementations, and should not be considered production-ready.
+> **⚠️ Disclaimer:** This project is currently experimental and part of an ongoing Master's thesis at UNIR ([Universidad Internacional de La Rioja](https://unir.net)). It serves as a brain dump of ideas and implementations, and should not be considered production-ready.
 
 ## Overview
 
