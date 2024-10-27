@@ -1,0 +1,28 @@
+apiVersion: scalingcontroller.com/v1
+kind: ApplicationProvisioner
+metadata:
+  name: example-app
+spec:
+  services:
+    - name: web-a
+      statefulSetName: web-statefulset
+      image: nginx:latest
+      resources:
+        requests:
+          cpu: 100m
+          memory: 256Mi
+        limits:
+          cpu: 200m
+          memory: 512Mi
+      replicas: 3
+    - name: web-b
+      statefulSetName: web-statefulset
+      image: nginx:latest
+      resources:
+        requests:
+          cpu: 100m
+          memory: 256Mi
+        limits:
+          cpu: 200m
+          memory: 512Mi
+      replicas: 3
